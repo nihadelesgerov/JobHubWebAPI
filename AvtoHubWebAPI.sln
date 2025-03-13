@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobHubWebAPI", "AvtoHubWebAPI\JobHubWebAPI.csproj", "{04DE66EE-80E0-47E7-816F-6F644CDBB71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobHubTest", "JobHubTest\JobHubTest.csproj", "{799291E9-2C81-409D-A7EB-4D7769AA9C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DE66EE-80E0-47E7-816F-6F644CDBB71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DE66EE-80E0-47E7-816F-6F644CDBB71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DE66EE-80E0-47E7-816F-6F644CDBB71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DE66EE-80E0-47E7-816F-6F644CDBB71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799291E9-2C81-409D-A7EB-4D7769AA9C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799291E9-2C81-409D-A7EB-4D7769AA9C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799291E9-2C81-409D-A7EB-4D7769AA9C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799291E9-2C81-409D-A7EB-4D7769AA9C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4A5C5B-1657-490B-AD64-EA5F4167AF4D}
+	EndGlobalSection
+EndGlobal

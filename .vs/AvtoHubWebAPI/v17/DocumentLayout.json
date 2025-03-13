@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\controllers\\accoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\controllers\\accoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\authservice\\implementations\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\authservice\\implementations\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\authservice\\implementations\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\authservice\\implementations\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\authservice\\implementations\\logoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\authservice\\implementations\\logoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\tokenservice\\genjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\tokenservice\\genjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\authservice\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\authservice\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\datalayer\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\datalayer\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nihad\\AppData\\Roaming\\Microsoft\\UserSecrets\\d66d7da9-2dcf-4a70-9bc3-0e1002aae90b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\efcoreservice\\mappingjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\efcoreservice\\mappingjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\efcoreservice\\loadingwith\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\efcoreservice\\loadingwith\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\efcoreservice\\loadingwith\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\efcoreservice\\loadingwith\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\datalayer\\repositores\\implementationr\\jobsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\datalayer\\repositores\\implementationr\\jobsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\datalayer\\repositores\\servicesr\\ijobsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\datalayer\\repositores\\servicesr\\ijobsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\datalayer\\datatransferobjects\\jobdto\\jobdtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\datalayer\\datatransferobjects\\jobdto\\jobdtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\efcoreservice\\sortingjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\efcoreservice\\sortingjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Nihad\\AppData\\Roaming\\Microsoft\\UserSecrets\\d66d7da9-2dcf-4a70-9bc3-0e1002aae90b\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d66d7da9-2dcf-4a70-9bc3-0e1002aae90b\\secrets.json",
+              "ToolTip": "C:\\Users\\Nihad\\AppData\\Roaming\\Microsoft\\UserSecrets\\d66d7da9-2dcf-4a70-9bc3-0e1002aae90b\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d66d7da9-2dcf-4a70-9bc3-0e1002aae90b\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T10:34:06.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogOutService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LogOutService.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LogOutService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LogOutService.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LogOutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:09:44.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LoginService.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LoginService.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\LoginService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:09:30.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:09:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\RegisterService.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\RegisterService.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Implementations\\RegisterService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:08:43.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Interfaces\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Interfaces\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Interfaces\\IRegisterService.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\AuthService\\Interfaces\\IRegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:08:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\DATALAYER\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\Entities\\Company.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:51:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AccoutController.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Controllers\\AccoutController.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AccoutController.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\Controllers\\AccoutController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:46:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenJWT.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\TokenService\\GenJWT.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\TokenService\\GenJWT.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\TokenService\\GenJWT.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\TokenService\\GenJWT.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:37:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Program.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:36:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobDTOItem.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\DataTransferObjects\\JobDTO\\JobDTOItem.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\DATALAYER\\DataTransferObjects\\JobDTO\\JobDTOItem.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\DataTransferObjects\\JobDTO\\JobDTOItem.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\DataTransferObjects\\JobDTO\\JobDTOItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:12:25.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\MainController.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:24:19.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingJobs.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\MappingJobs.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\MappingJobs.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\MappingJobs.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\MappingJobs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:33:30.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\Repositores\\ImplementationR\\JobsRepo.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\DATALAYER\\Repositores\\ImplementationR\\JobsRepo.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\Repositores\\ImplementationR\\JobsRepo.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\Repositores\\ImplementationR\\JobsRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:06:38.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\JobService.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\JobService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\JobService.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\JobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:17:54.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJobsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\Repositores\\ServicesR\\IJobsRepo.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\DATALAYER\\Repositores\\ServicesR\\IJobsRepo.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\DATALAYER\\Repositores\\ServicesR\\IJobsRepo.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\Repositores\\ServicesR\\IJobsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:15:00.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\IJobService.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\IJobService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\IJobService.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:10:50.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SortingJobs.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\SortingJobs.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\SortingJobs.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\SortingJobs.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\SortingJobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:25:40.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

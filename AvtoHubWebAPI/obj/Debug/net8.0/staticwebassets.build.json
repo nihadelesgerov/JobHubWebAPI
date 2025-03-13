@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aJL86jZSRp3VMhOr3SA8bGUw/he2+hsbJtWoOx0S0hk=",
+  "Source": "JobHubWebAPI",
+  "BasePath": "_content/JobHubWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
