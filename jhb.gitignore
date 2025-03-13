@@ -1,0 +1,6 @@
+bin
+obj
+JobHubWebAPI.http
+JobHubWebAPI/AvtoHubWebAPI
+/obj
+AvtoHubWebAPI/bin/Debug/net8.0
