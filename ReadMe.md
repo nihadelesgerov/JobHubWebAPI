@@ -13,3 +13,13 @@ In the coming days, I will develop APIs for the Account section and features lik
 Features that are currently missing but will be added within this week include xUnit (FakeItEasy), Filters, Security Measures, Logging with SeriLog, and Indexes in SQL Server. 
 
 In addition to GitIgnore, I have stored configuration data in the secret.json file.
+
+WHAT I USED
+
+MS SQL 
+JWT 
+Entity Framework Core and Performance Tuning Feature
+Layered Architecture
+Relational DataBase MS
+
+Contact : nihadelesgerov0@gmail.com
