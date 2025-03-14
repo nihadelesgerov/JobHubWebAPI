@@ -3,6 +3,7 @@ using JobHubWebAPI.DataLayer.DataBaseConnection;
 using JobHubWebAPI.DataLayer.DataTransferObjects.JobDTO;
 using JobHubWebAPI.DataLayer.Entities;
 using JobHubWebAPI.DataLayer.Repositores.RepositoryInterfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace JobHubWebAPI.DataLayer.Repositores.ImplementationR
 {
@@ -20,7 +21,7 @@ namespace JobHubWebAPI.DataLayer.Repositores.ImplementationR
         }
         public IQueryable<Job> GetSearchedJobs(string seachJob)
         {
-            return context.JobTable.Where(a => a.Title.Contains(seachJob));
+            return context.JobTable.Where(a => a.Title.Contains(seachJob)).AsNoTracking();
         }
     }
 }

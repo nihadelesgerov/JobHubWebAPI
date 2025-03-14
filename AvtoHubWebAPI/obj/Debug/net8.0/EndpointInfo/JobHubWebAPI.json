@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/login": {
+    "/reg": {
       "post": {
         "tags": [
           "Auth"
@@ -14,17 +14,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/LoginResultModel"
+                "$ref": "#/components/schemas/RegisterModel"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/LoginResultModel"
+                "$ref": "#/components/schemas/RegisterModel"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/LoginResultModel"
+                "$ref": "#/components/schemas/RegisterModel"
               }
             }
           }
@@ -35,14 +35,233 @@
           }
         }
       }
+    },
+    "/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/logOut": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/JobHub/LoadJob/vacancies/{searchJob}": {
+      "get": {
+        "tags": [
+          "Main"
+        ],
+        "parameters": [
+          {
+            "name": "searchJob",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/JobHub/GetSpecificJobWithId/profession/{int}": {
+      "get": {
+        "tags": [
+          "Main"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "int",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobDTOItem"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobDTOItem"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobDTOItem"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
-      "LoginResultModel": {
+      "JobDTO": {
         "type": "object",
         "properties": {
-          "username": {
+          "jobId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "salary": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "jobPostedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "location": {
+            "type": "string",
+            "nullable": true
+          },
+          "companyName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "JobDTOItem": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "location": {
+            "type": "string",
+            "nullable": true
+          },
+          "skills": {
+            "type": "string",
+            "nullable": true
+          },
+          "salary": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "postedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "applicationDeadline": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "companyName": {
+            "type": "string",
+            "nullable": true
+          },
+          "companyEmail": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginModel": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RegisterModel": {
+        "type": "object",
+        "properties": {
+          "email": {
             "type": "string",
             "nullable": true
           },

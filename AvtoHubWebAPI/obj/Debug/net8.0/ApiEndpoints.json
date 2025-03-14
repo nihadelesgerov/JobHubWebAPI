@@ -1,5 +1,62 @@
 [
   {
+    "ContainingType": "JobHubWebAPI.Controllers.MainController",
+    "Method": "GetSpecificJobWithId",
+    "RelativePath": "JobHub/GetSpecificJobWithId/profession/{int}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "int",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "JobHubWebAPI.DataLayer.DataTransferObjects.JobDTOItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "JobHubWebAPI.Controllers.MainController",
+    "Method": "LoadJob",
+    "RelativePath": "JobHub/LoadJob/vacancies/{searchJob}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchJob",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "JobHubWebAPI.DataLayer.DataTransferObjects.JobDTO.JobDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "JobHubWebAPI.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "login",
@@ -9,7 +66,33 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "JobHubWebAPI.DataLayer.AuthModel.LoginResultModel",
+        "Type": "JobHubWebAPI.DataLayer.AuthModel.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JobHubWebAPI.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "logOut",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JobHubWebAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "reg",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "JobHubWebAPI.DataLayer.AuthModel.RegisterModel",
         "IsRequired": true
       }
     ],

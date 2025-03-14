@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobHubWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81fcfba8b4050247c592493d96177cd2bc17840c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8cdfb4157e669cd1bfdf2541b44791c4b9267d")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobHubWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobHubWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

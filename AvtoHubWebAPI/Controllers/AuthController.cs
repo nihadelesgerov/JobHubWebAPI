@@ -39,6 +39,7 @@ namespace JobHubWebAPI.Controllers
         }
 
         [HttpPost]
+        [Route("/logOut")]
         public async Task<ActionResult> Logout()
         {
                 var userId = User.FindFirst("UserId")?.Value; // when user registered I added user's claim with claim type ""UserId" , now Im looking for it to get user
