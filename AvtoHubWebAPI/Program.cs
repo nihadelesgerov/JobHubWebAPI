@@ -1,5 +1,11 @@
+using JobHubWebAPI.ApplicationLayer.AuthService.Interfaces;
+using JobHubWebAPI.ApplicationLayer.AuthService.Repos;
+using JobHubWebAPI.ApplicationLayer.EFCoreService.LoadingWith;
 using JobHubWebAPI.ApplicationLayer.Token;
+using JobHubWebAPI.APPLICATIONLAYER.AccountService;
 using JobHubWebAPI.DataLayer.DataBaseConnection;
+using JobHubWebAPI.DATALAYER.Repositores.ImplementationR;
+using JobHubWebAPI.DATALAYER.Repositores.ServicesR;
 using Microsoft.AspNetCore.Authentication.BearerToken;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +18,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<GenJWT>();
+builder.Services.AddScoped<IAccountRepo, AccountRepo>();
+builder.Services.AddScoped<IJobService, JobService>();
+builder.Services.AddScoped<IAccountService, AccountService>();
+builder.Services.AddScoped<ILoginService,LoginService>();
+builder.Services.AddScoped<IRegisterService,RegisterService>();
 builder.Services.AddDbContext<JobHubDataBaseContext>(context =>
 {
     context.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection")); // connection string is inside sercet.json that will be invisible in any appsettings json files :)

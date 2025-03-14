@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\controllers\\accoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\controllers\\accoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\applicationlayer\\filters\\modelvalidationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\applicationlayer\\filters\\modelvalidationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\controllers\\accoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|solutionrelative:avtohubwebapi\\controllers\\accoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04DE66EE-80E0-47E7-816F-6F644CDBB71C}|AvtoHubWebAPI\\JobHubWebAPI.csproj|c:\\users\\nihad\\source\\repos\\avtohubwebapi\\avtohubwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -91,28 +91,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModelValidationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\FILTERS\\ModelValidationFilter.cs",
-              "RelativeDocumentMoniker": "AvtoHubWebAPI\\APPLICATIONLAYER\\FILTERS\\ModelValidationFilter.cs",
-              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\APPLICATIONLAYER\\FILTERS\\ModelValidationFilter.cs",
-              "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\FILTERS\\ModelValidationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Program.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T16:01:48.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AvtoHubWebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:54:46.675Z",
+              "WhenOpened": "2025-03-14T16:13:37.343Z",
               "EditorCaption": ""
             },
             {
@@ -125,13 +112,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AvtoHubWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:54:46.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccoutController.cs",
               "DocumentMoniker": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AccoutController.cs",
               "RelativeDocumentMoniker": "AvtoHubWebAPI\\Controllers\\AccoutController.cs",
               "ToolTip": "C:\\Users\\Nihad\\source\\repos\\AvtoHubWebAPI\\AvtoHubWebAPI\\Controllers\\AccoutController.cs",
               "RelativeToolTip": "AvtoHubWebAPI\\Controllers\\AccoutController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:41:10.402Z",
               "EditorCaption": ""
@@ -146,8 +145,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\AccountService\\AccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:40:06.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:40:06.936Z"
             },
             {
               "$type": "Document",
@@ -159,8 +157,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\MappingAccount.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:35:13.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:35:13.324Z"
             },
             {
               "$type": "Document",
@@ -172,8 +169,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\EFCoreService\\LoadingWith\\JobService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:34:46.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:34:46.548Z"
             },
             {
               "$type": "Document",
@@ -185,8 +181,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\AccountService\\IAccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:11:54.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:11:54.678Z"
             },
             {
               "$type": "Document",
@@ -198,8 +193,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\APPLICATIONLAYER\\TokenService\\GenJWT.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:42:57.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:42:57.228Z"
             },
             {
               "$type": "Document",
@@ -211,8 +205,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\DataTransferObjects\\AccountDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:34:07.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:34:07.809Z"
             },
             {
               "$type": "Document",
@@ -224,8 +217,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\Repositores\\ImplementationR\\AccountRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:33:39.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:33:39.666Z"
             },
             {
               "$type": "Document",
@@ -237,8 +229,7 @@
               "RelativeToolTip": "AvtoHubWebAPI\\DATALAYER\\Repositores\\ImplementationR\\JobsRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:32:12.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:32:12.443Z"
             }
           ]
         }
