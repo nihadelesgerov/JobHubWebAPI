@@ -1,0 +1,9 @@
+# Ignoring build outputs
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.vscode/
+*.csproj.user
