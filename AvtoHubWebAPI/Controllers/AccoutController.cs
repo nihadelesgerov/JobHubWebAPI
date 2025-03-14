@@ -7,25 +7,11 @@ namespace JobHubWebAPI.Controllers
     [Authorize]
     public class AccoutController : Controller
     {
+    // Will work on it
         public AccoutController()
         {
 
         }
+    }
 
-        [HttpGet, Route("/acc")]
-        public ActionResult MyAccount()
-        {
-            var user = HttpContext.User.FindFirst(ClaimTypes.Email);
-            if (user == null)
-            {
-                return Unauthorized((new {Message = "User didn't log in"}));
-            }
-
-        }
-
-            // load account
-            // add info about company
-            //show jobs (if have)
-            // create jobs
-        }
 }
